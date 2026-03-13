@@ -39,16 +39,9 @@ Data augmentation significantly improved model performance, with **Deep4Net** an
 | Deep4Net       | 84.82%              | 0.9509         |
 | EEGConformer   | 73.21%              | 0.8479         |
 
-## Future Work
-
-- Collecting more real EEG samples to reduce reliance on synthetic augmentation.
-- Improving subject-specific training for better personalization.
-- Experimenting with model ensembling (e.g., Deep4Net + EEGNet) to balance depth and efficiency.
-- Refining data augmentation strategies to improve small-model performance.
-
 ## Usage
 
-After installing the required libraries, you can train and evaluate the models using the Jupyter notebook located in BCI_Final_Project.ipynb. The notebook provides an end-to-end pipeline for preprocessing data, training models, and evaluating their performance.
+After installing the required libraries and datasets, you can train and evaluate the models using the Jupyter notebook located in BCI_Final_Project.ipynb. The notebook provides an end-to-end pipeline for preprocessing data, training models, and evaluating their performance.
 
 ## Acknowledgments
 
