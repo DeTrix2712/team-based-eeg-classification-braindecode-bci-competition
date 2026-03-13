@@ -46,16 +46,6 @@ Data augmentation significantly improved model performance, with **Deep4Net** an
 - Experimenting with model ensembling (e.g., Deep4Net + EEGNet) to balance depth and efficiency.
 - Refining data augmentation strategies to improve small-model performance.
 
-## Installation
-
-To run this project, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/{your_username}/team-based-eeg-classification-braindecode-bci-competition.git
-cd team-based-eeg-classification-braindecode-bci-competition
-pip install -r requirements.txt
-```
-
 ## Usage
 
 After installing the required libraries, you can train and evaluate the models using the Jupyter notebook located in BCI_Final_Project.ipynb. The notebook provides an end-to-end pipeline for preprocessing data, training models, and evaluating their performance.
